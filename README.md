@@ -2,7 +2,7 @@
 **xscr33m/xscr33m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# xscr33m's GitHub Profile Information
+# xscr33m's Profile Information
 
 ## About Me
 - 🛠️ Developer
