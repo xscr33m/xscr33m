@@ -12,10 +12,10 @@
 
 
 ## Projects
-- #### 🛠️ TraderPlusEditor [![Github all releases](https://img.shields.io/github/downloads/xscr33m/TraderPlusEditor/total.svg)](https://GitHub.com/xscr33m/TraderPlusEditor/releases/)  
-- #### 🛠️ Dr.Jones-to-TraderPlus-Converter [![Github all releases](https://img.shields.io/github/downloads/xscr33m/Dr.Jones-to-TraderPlus-Converter/total.svg)](https://GitHub.com/xscr33m/Dr.Jones-to-TraderPlus-Converter/releases/)  
-- #### 🎮 [My Steam Workshop](https://steamcommunity.com/id/xscr33m/myworkshopfiles/?appid=221100)
-- #### 🕹️ [BeyondZ PvE Community Server](https://top-games.net/dayz/beyondz) [![Discord](https://img.shields.io/discord/1102440447835648124)](https://discord.com/invite/PasvscT4Nh)
+- 🛠️ [TraderPlusEditor](https://github.com/xscr33m/TraderPlusEditor)
+- 🛠️ [Dr.Jones-to-TraderPlus-Converter](https://github.com/xscr33m/Dr.Jones-to-TraderPlus-Converter)
+- 🎮 [My Steam Workshop](https://steamcommunity.com/id/xscr33m/myworkshopfiles/?appid=221100)
+- 🕹️ [[EU] BeyondZ |PvE|Jungle|KillReward|AirDrop|Trader|Loot+|](https://top-games.net/dayz/beyondz)
 
 
 ## Contact
