@@ -6,6 +6,7 @@
 <p align="center">
   <strong><code>IT enthusiastic wizard (Developer/Modder/Server-Admin) </code></strong>
   <br>
+  <br>
   <strong>This person is just another nerd who wants to make life easier and more interesting with some code. Every project is planned, developed and tested as thoroughly as possible from the ground up. 
   I use the progress of AI and the current resources to develop and improve my programming skills alongside my job. In doing so, I take on a wide variety of challenges to achieve the best possible result!</strong>
 </p>
@@ -47,8 +48,6 @@
   <a href="https://github.com/xscr33m/">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xscr33m&theme=monokai" />
   </a>
-  <br>
-  <code>(Public Repositories)</code>
 </p>
 
 
