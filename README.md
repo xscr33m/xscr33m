@@ -24,7 +24,7 @@
          <img alt="youtube views" title="Total YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCYFZ9NvJHMjaiyW9GGYvijQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
    </p>
 
----
+#
 
 ### 🛠️ Languages & Tools
    <p align="center">
@@ -50,7 +50,6 @@
   </a>
 </p>
 
-
 #
 
 ### 🪐 My Universe
@@ -75,7 +74,7 @@
   </a>
 </p>
 
-
+---
 
 
 
