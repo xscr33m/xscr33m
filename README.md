@@ -13,15 +13,15 @@
 
    <p align="center">
       <a href="https://github.com/xscr33m?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/xscr33m?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+         <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/xscr33m?color=55960c&style=for-the-badge&labelColor=488207&logo=github"/></a>
       <a href="https://github.com/xscr33m?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/xscr33m?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+         <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/xscr33m?color=236ad3&labelColor=1155ba&style=for-the-badge&label=Follower&logoColor=white&logo=github"/></a>
       <a href="https://discord.com/invite/PasvscT4Nh">
-         <img alt="Discord Join" title="Join the Discord Server" src="https://custom-icon-badges.demolab.com/discord/1102440447835648124?color=5865F2&style=for-the-badge&labelColor=5e6af0&logo=discord&logoColor=white&label=Join"/></a>
+         <img alt="Discord Join" title="Join the Discord Server" src="https://img.shields.io/discord/1102440447835648124?color=5865F2&style=for-the-badge&labelColor=5e6af0&logo=discord&logoColor=white&label=Join"/></a>
       <a href="https://www.youtube.com/@xscr33m?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCYFZ9NvJHMjaiyW9GGYvijQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UCYFZ9NvJHMjaiyW9GGYvijQ?color=%23E05D44&label=SUBSCRIBE&logoColor=white&style=for-the-badge&labelColor=CE4630&logo=youtube"/></a> 
       <a href="https://www.youtube.com/@xscr33m">
-         <img alt="youtube views" title="Total YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCYFZ9NvJHMjaiyW9GGYvijQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+         <img alt="youtube views" title="Total YouTube views" src="https://img.shields.io/youtube/channel/views/UCYFZ9NvJHMjaiyW9GGYvijQ?color=%23E1AD0E&logoColor=white&style=for-the-badge&labelColor=C79600&logo=youtube"/></a> 
    </p>
 
 #
