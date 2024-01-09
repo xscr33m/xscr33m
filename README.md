@@ -61,6 +61,9 @@
   <a href="https://github.com/xscr33m/Dr.Jones-to-TraderPlus-Converter">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=xscr33m&repo=Dr.Jones-to-TraderPlus-Converter&theme=monokai" />
   </a>
+  <a href="https://github.com/xscr33m/TypesClassNameExtractor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xscr33m&repo=TypesClassNameExtractor&theme=monokai" />
+  </a>
   <a href="https://github.com/xscr33m/BigFile_Checker">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=xscr33m&repo=BigFile_Checker&theme=monokai" />
   </a>
