@@ -44,11 +44,13 @@
 <img alt="Gimp" title="Gimp" width="40px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
 <img alt="Photoshop" title="Photoshop" width="40px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
    </p>
+<!--
 <p align="center">
   <a href="https://github.com/xscr33m/">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xscr33m&theme=monokai" />
   </a>
 </p>
+-->
 
 #
 
