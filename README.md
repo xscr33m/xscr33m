@@ -33,6 +33,7 @@
 <img alt="C-Sharp" title="C-Sharp" width="40px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img alt="DotNet-Original" title="DotNet-Original" width="40px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
 <img alt="DotNet-Core" title="DotNet-Core" width="40px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+<img alt="Python" title="Python" width="40px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img alt="Markdown" title="Markdown" width="40px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
 <img alt="VisualStudio" title="VisualStudio" width="40px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 <img alt="VS-Code" title="VS-Code" width="40px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
