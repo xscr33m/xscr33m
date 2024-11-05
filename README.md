@@ -69,8 +69,8 @@
   <a href="https://github.com/xscr33m/TypesClassNameExtractor">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=xscr33m&repo=TypesClassNameExtractor&theme=monokai" />
   </a>
-  <a href="https://github.com/xscr33m/BigFile_Checker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xscr33m&repo=BigFile_Checker&theme=monokai" />
+  <a href="https://github.com/xscr33m/xscr33mLabs_IpsumWall">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xscr33m&repo=xscr33mLabs_IpsumWall&theme=monokai" />
   </a>
 </p>
 
