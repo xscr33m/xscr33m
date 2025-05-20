@@ -4,6 +4,17 @@
 
 <div align="center">
   
+  [![GitHub Stars](https://img.shields.io/github/stars/xscr33m?color=55960c&style=for-the-badge&labelColor=488207&logo=github)](https://github.com/xscr33m?tab=repositories&sort=stargazers)
+  [![GitHub Followers](https://img.shields.io/github/followers/xscr33m?color=236ad3&labelColor=1155ba&style=for-the-badge&label=Follower&logoColor=white&logo=github)](https://github.com/xscr33m?tab=followers)
+  [![Discord Server](https://img.shields.io/discord/1102440447835648124?color=5865F2&style=for-the-badge&labelColor=5e6af0&logo=discord&logoColor=white&label=Join)](https://discord.gg/5CrDj8ba6C)
+  [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCYFZ9NvJHMjaiyW9GGYvijQ?color=%23E05D44&label=SUBSCRIBE&logoColor=white&style=for-the-badge&labelColor=CE4630&logo=youtube)](https://www.youtube.com/@xscr33m?sub_confirmation=1)
+  [![YouTube Views](https://img.shields.io/youtube/channel/views/UCYFZ9NvJHMjaiyW9GGYvijQ?color=%23E1AD0E&logoColor=white&style=for-the-badge&labelColor=C79600&logo=youtube)](https://www.youtube.com/@xscr33m)
+</div>
+
+##
+
+<div align="center">
+  
 # 👨‍💻 xscr33m | IT Professional
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&random=false&width=600&lines=Software+Developer;Server+Administrator;Creative+Modder;Problem+Solver)](https://git.io/typing-svg)
@@ -21,19 +32,6 @@ Passionate technology enthusiast with a drive to create innovative solutions tha
 > "Technology is best when it brings people together." – Matt Mullenweg
 
 Leveraging the advancements in AI and modern development resources, I continuously enhance my programming skills while maintaining a full-time career in IT. I thrive on diverse challenges and am committed to delivering exceptional results in every endeavor.
-
-<div align="center">
-  
-  [![GitHub Stars](https://img.shields.io/github/stars/xscr33m?color=55960c&style=for-the-badge&labelColor=488207&logo=github)](https://github.com/xscr33m?tab=repositories&sort=stargazers)
-  [![GitHub Followers](https://img.shields.io/github/followers/xscr33m?color=236ad3&labelColor=1155ba&style=for-the-badge&label=Follower&logoColor=white&logo=github)](https://github.com/xscr33m?tab=followers)
-  [![Discord Server](https://img.shields.io/discord/1102440447835648124?color=5865F2&style=for-the-badge&labelColor=5e6af0&logo=discord&logoColor=white&label=Join)](https://discord.gg/5CrDj8ba6C)
-  [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCYFZ9NvJHMjaiyW9GGYvijQ?color=%23E05D44&label=SUBSCRIBE&logoColor=white&style=for-the-badge&labelColor=CE4630&logo=youtube)](https://www.youtube.com/@xscr33m?sub_confirmation=1)
-  [![YouTube Views](https://img.shields.io/youtube/channel/views/UCYFZ9NvJHMjaiyW9GGYvijQ?color=%23E1AD0E&logoColor=white&style=for-the-badge&labelColor=C79600&logo=youtube)](https://www.youtube.com/@xscr33m)
-  
-  <a href='https://ko-fi.com/R6R81C85IT' target='_blank'><img height='42' style='border:0px;height:42px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-##
 
 ## 🛠️ Technical Arsenal
 
@@ -95,6 +93,9 @@ Leveraging the advancements in AI and modern development resources, I continuous
     <p>
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=xscr33m&bg_color=0D1117&color=E53935&line=FF9B84&point=FFFFFF&hide_border=true" alt="xscr33m's Activity Graph" />
     </p>
+    <p>
+<a href='https://ko-fi.com/R6R81C85IT' target='_blank'><img height='42' style='border:0px;height:42px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a></p>
+
   </div>
 
 > Feel free to check my pinned repositories below for more of my work!
