@@ -195,15 +195,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xscr33m&theme=slateorange" alt="xscr33m's GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xscr33m&theme=slateorange" alt="xscr33m's GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xscr33m&theme=slateorange&utcOffset=1" alt="xscr33m's GitHub Stats" />
-</div>
-
-<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xscr33m&theme=slateorange" alt="xscr33m's GitHub Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xscr33m&theme=slateorange" alt="xscr33m's GitHub Stats" />
 </div>
@@ -215,13 +206,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=xscr33m&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7&row=1" alt="xscr33m's Achievements" />
   </p>
 </details>
-
-<div align="center">
-  <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xscr33m&custom_title=xscr33m's%20Contribution%20Graph&bg_color=0D1117&color=E53935&line=FF9B84&point=FFFFFF&area=true&area_color=E05397&hide_border=true" alt="xscr33m's Activity Graph" width="98%" />
-</div>
-
-> Feel free to check my pinned repositories below for more of my work!
 
 ## 📫 Connect With Me
 
