@@ -42,31 +42,31 @@ const xscr33m = {
 ## 🛠️ Technology Stack
 
 ### OS
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=windows,ubuntu&theme=dark&perline=8" />
+<div align="center" style="pointer-events: none;">
+  <img src="https://skillicons.dev/icons?i=windows,ubuntu&theme=dark&perline=8" style="pointer-events: none;" />
 </div>
 
 ### Languages
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,html,css,scss,cs,c&theme=dark&perline=8" />
+<div align="center" style="pointer-events: none;">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,html,css,scss,cs,c&theme=dark&perline=8" style="pointer-events: none;" />
 </div>
 
 ### Frameworks & Libraries
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,flask,fastapi,angular,dotnet&theme=dark&perline=8" />
+<div align="center" style="pointer-events: none;">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,flask,fastapi,angular,dotnet&theme=dark&perline=8" style="pointer-events: none;" />
 </div>
 
 ### Databases & Tools
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,git,vscode,visualstudio,ps,raspberrypi,docker&theme=dark&perline=8" />
+<div align="center" style="pointer-events: none;">
+  <img src="https://skillicons.dev/icons?i=postgres,git,vscode,visualstudio,ps,raspberrypi,docker&theme=dark&perline=8" style="pointer-events: none;" />
 </div>
 
 ---
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=xscr33m&theme=maroongold&hide_border=true&border_radius=25&date_format=j%20M%5B%20Y%5D&mode=weekly&fire=EB5454" alt="GitHub Streak"/>
+<div align="center" style="pointer-events: none;">
+  <img src="https://streak-stats.demolab.com?user=xscr33m&theme=maroongold&hide_border=true&border_radius=25&date_format=j%20M%5B%20Y%5D&mode=weekly&fire=EB5454" alt="GitHub Streak" style="pointer-events: none;" />
 </div>
 
 ---
