@@ -43,7 +43,7 @@ const xscr33m = {
 
 ### OS
 <div align="center" style="pointer-events: none;">
-  <img src="https://skillicons.dev/icons?i=windows,ubuntu&theme=dark&perline=8" style="pointer-events: none;" />
+  <img src="https://skillicons.dev/icons?i=arch,windows,ubuntu&theme=dark&perline=8" style="pointer-events: none;" />
 </div>
 
 ### Languages
